@@ -1,0 +1,126 @@
+ohh! webscraping en java. interesante
+----------
+Index: 1
+Nombre: Computador Portátil Gamer Victus HP 15,6" Pulgadas Fa0000la Intel Core I5- RAM 16GB - Disco SSD 512GB - Azul
+Precio: $3.999.000
+Código: 197497202632
+----------
+Index: 2
+Nombre: Computador Portátil HP 15,6" Pulgadas Ef2524la AMD R5- RAM 8GB - Disco SSD 512 GB - Plateado Natural
+Precio: $2.049.000
+Código: 197497269369
+----------
+Index: 3
+Nombre: Computador Portátil ASUS Vivobook 16" Pulgadas X1605ZA - Intel Core i5 - RAM 8GB - Disco SSD 512 GB - Negro
+Precio: $2.699.000
+Código: 4711387165546
+----------
+Index: 4
+Nombre: Computador portátil Gamer ACER NITRO 15.6" Pulgadas 58V0 Intel Core i5 - RAM 8GB - Disco SSD 512GB - Negro
+Precio: $3.899.000
+Código: 4711121614538
+----------
+Index: 5
+Nombre: Computador Portátil HP 14" Pulgadas Dq2533la INTEL Core I5 - RAM 8GB - Disco SSD 512 GB - Plateado
+Precio: $1.899.000
+Código: 197497161816
+----------
+Index: 6
+Nombre: Computador Portátil ASUS 15,6" Pulgadas X515EA - Intel Core i3 - RAM 8GB - Disco SSD 512 GB - Gris
+Precio: $1.649.000
+Código: 4711387145692
+----------
+Index: 7
+Nombre: Computador Portátil Gamer ASUS TUF 15,6" Pulgadas FX506 - Intel Core i5 - RAM 8GB - Disco SSD 512 GB - Negro
+Precio: $3.699.000
+Código: 4711387063491
+----------
+Index: 8
+Nombre: Computador Portátil LENOVO 15,6" Pulgadas IdeaPad 3 - Intel Core i3 - RAM 12GB - Disco SSD 512GB - Azul
+Precio: $1.799.000
+Código: 197528076430
+----------
+Index: 9
+Nombre: Computador Portátil ASUS Vivobook 15.6" Pulgadas E1504GA - Intel Core i3 - RAM 8GB - Disco SSD 512 GB - Negro
+Precio: $1.749.000
+Código: 4711387148440
+----------
+Index: 10
+Nombre: Computador Portátil HP 15,6" Pulgadas Eg0517la INTEL Core I5 - RAM 8GB - Disco SSD 256GB - Plateado
+Precio: $1.999.000
+Código: 197497065282
+----------
+Index: 11
+Nombre: Computador Portátil Gamer LENOVO 15,6" Pulgadas IdeaPad Gaming 3 - Intel Core i5 - RAM 8GB - Disco SSD 512GB - Negro
+Precio: $2.999.000
+Código: 197529985793
+----------
+Index: 12
+Nombre: Computador Portátil LENOVO 14" Pulgadas IdeaPad 3 - Intel Core i5 - RAM 8GB - Disco SSD 256GB - AZUL
+Precio: $1.849.000
+Código: 196802801904
+----------
+Index: 13
+Nombre: Computador Portátil LENOVO 14" Pulgadas IdeaPad 3 - Intel Core i5 - RAM 8GB - Disco SSD 512GB - Azul
+Precio: $1.949.000
+Código: 196802801911
+----------
+Index: 14
+Nombre: Computador Portátil HP 14" Pulgadas Dq2528la Intel Core I3 - RAM 8GB - Disco SSD 256 GB – Plateado
+Precio: $1.599.000
+Código: 197497161786
+----------
+Index: 15
+Nombre: MacBook Air de 13" Pulgadas MGN63LA/A Chip M1 RAM 8GB Disco Estado Solido 256 GB - Gris espacial
+Precio: $4.699.000
+Código: 194252425824
+----------
+Index: 16
+Nombre: Computador Portátil HP 15,6" Pulgadas Fc0001la AMD Ryzen 3 - RAM 8GB - Disco SSD 512GB - Plateado
+Precio: $1.749.000
+Código: 197497065428
+----------
+Index: 17
+Nombre: Computador Portátil HP 14" Pulgadas fq1012la - AMD Ryzen 5 - RAM 12GB - Disco SSD 256 GB - Plateado
+Precio: $1.899.000
+Código: 197192433454
+----------
+Index: 18
+Nombre: Computador Portátil LENOVO 14" Pulgadas IdeaPad 3 - AMD Ryzen 3 - RAM 8GB - Disco SSD 256GB - Azul
+Precio: $1.519.000
+Código: 196803676471
+----------
+Index: 19
+Nombre: Computador Portátil Gamer Victus HP 15.6" Pulgadas fb0102la - AMD Ryzen 5 - RAM 8GB- Disco SSD 512 GB - Gris
+Precio: $3.349.000
+Código: 197497272383
+----------
+Index: 20
+Nombre: Computador portátil ACER ASPIRE 3 15.6" Pulgadas 34TS Intel Core i3 - RAM 8GB - Disco SSD 512GB - Plata
+Precio: $1.799.000
+Código: 4711121614408
+----------
+Index: 21
+Nombre: Computador Portátil LENOVO 15,6" Pulgadas IdeaPad 3 - Intel Core i3 - RAM 8GB - Disco SSD 512GB - Gris
+Precio: $1.649.000
+Código: 196800818355
+----------
+Index: 22
+Nombre: Computador Portátil Gamer LENOVO 15.6" Pulgadas IdeaPad Gaming 3 - Intel Core i5 - RAM 8GB - Disco SSD 512GB - Gris
+Precio: $3.699.000
+Código: 196800901132
+----------
+Index: 23
+Nombre: Computador portátil ACER ASPIRE 3 14" Pulgadas R7QL AMD Ryzen 5 - RAM 8GB - Disco SSD 512GB - Plateado
+Precio: $2.099.000
+Código: 4711121295645
+----------
+Index: 24
+Nombre: Computador Portátil HP 14" Pulgadas Em0006la AMD Ryzen 3 - RAM 8GB - Disco SSD 512 GB - Azul Claro
+Precio: $1.749.000
+Código: 197497164107
+----------
+Index: 25
+Nombre: Computador Portátil LENOVO 14" Pulgadas IdeaPad 3 - AMD Ryzen 3 - RAM 8GB - Disco SSD 512GB - Azul
+Precio: $1.649.000
+Código: 197528937786

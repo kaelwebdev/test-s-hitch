@@ -1,0 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Maven
+target/
+*.iml
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+
+# Compiled Java
+*.class
+
+# Libraries
+/lib/
+/libs/
+/target/
